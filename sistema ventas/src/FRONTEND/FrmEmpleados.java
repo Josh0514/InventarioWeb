@@ -132,7 +132,7 @@ public class FrmEmpleados extends javax.swing.JInternalFrame {
             }
         });
 
-        jLabel4.setText("Dni:");
+        jLabel4.setText("Dpi:");
 
         jLabel5.setText("Telefono:");
 

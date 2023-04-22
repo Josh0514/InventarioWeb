@@ -163,9 +163,9 @@ public void Limpiar(){
 
         jLabel4.setText("Edad:");
 
-        jLabel5.setText("Ruc:");
+        jLabel5.setText("ID");
 
-        jLabel6.setText("DNI:");
+        jLabel6.setText("DPI:");
 
         jLabel7.setText("Telefono:");
 

@@ -111,9 +111,9 @@ public class FrmProveedor extends javax.swing.JInternalFrame{
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(255, 204, 51));
+        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
 
-        jPanel2.setBackground(new java.awt.Color(255, 204, 51));
+        jPanel2.setBackground(new java.awt.Color(51, 51, 51));
         jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("Datos del Proveedor"));
 
         jLabel1.setText("Codigo:");
@@ -124,7 +124,7 @@ public class FrmProveedor extends javax.swing.JInternalFrame{
 
         jLabel4.setText("Telefono:");
 
-        jLabel5.setText("Ruc:");
+        jLabel5.setText("NIT");
 
         btnnuevo.setText("Nuevo");
         btnnuevo.addActionListener(new java.awt.event.ActionListener() {

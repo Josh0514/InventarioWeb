@@ -608,7 +608,7 @@ public class FrmCompra extends javax.swing.JInternalFrame{
         });
 
         btnimprimir.setFont(new java.awt.Font("Tahoma", 1, 16)); // NOI18N
-        btnimprimir.setText("Impremir");
+        btnimprimir.setText("Imprimir");
 
         btnsalir.setFont(new java.awt.Font("Tahoma", 1, 16)); // NOI18N
         btnsalir.setText("Salir");
@@ -687,7 +687,7 @@ public class FrmCompra extends javax.swing.JInternalFrame{
                 .addGap(27, 27, 27)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                     .addComponent(jPanel6, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel7, javax.swing.GroupLayout.DEFAULT_SIZE, 0, Short.MAX_VALUE))
+                    .addComponent(jPanel7, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                     .addGroup(jPanel1Layout.createSequentialGroup()

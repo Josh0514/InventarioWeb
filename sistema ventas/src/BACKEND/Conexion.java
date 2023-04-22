@@ -9,7 +9,7 @@ public class Conexion {
     static Connection conn =null;
     
     public static Connection conectar(){
-        String url="jdbc:sqlserver://localhost:1433;databaseName=db_ventas;Encrypt=true;TrustServerCertificate=false;";
+        String url="jdbc:sqlserver://localhost\\JOSHUA\\SQLEXPRESS:1433;databaseName=db_ventas;Encrypt=false;TrustServerCertificate=true;";
         try {
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
         } catch (ClassNotFoundException e) {
